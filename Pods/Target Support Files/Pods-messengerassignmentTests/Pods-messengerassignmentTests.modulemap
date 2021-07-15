@@ -1,0 +1,6 @@
+framework module Pods_messengerassignmentTests {
+  umbrella header "Pods-messengerassignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
